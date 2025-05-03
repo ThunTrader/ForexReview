@@ -119,7 +119,7 @@ If you're looking to open a forex trading account, selecting a reliable broker i
 
 | Broker Name     | Regulation       | Key Features                                  |
 |-----------------|------------------|-----------------------------------------------|
-| **Exness**      | FCA, CySEC       | Low spreads, fast execution, great customer support |
+| **[Exness](https://one.exnesstrack.org/boarding/sign-up/a/newup2)**      | FCA, CySEC       | Low spreads, fast execution, great customer support |
 | **JustMarkets** | FSC, CySEC       | ECN/STP execution, comprehensive educational resources |
 | **XM**          | ASIC, CySEC, IFSC| Micro accounts, high leverage, no re-quotes   |
 | **Pepperstone** | ASIC, FCA        | Ultra-low spreads, high-speed execution       |

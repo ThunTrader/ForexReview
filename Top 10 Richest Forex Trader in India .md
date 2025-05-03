@@ -101,7 +101,7 @@
 Choosing the right broker is crucial for trading success.  
 Here are some reputable brokers:
 
-| Broker       | Features                                       | Affiliate Link |
+| Broker       | Features                                       | |
 |--------------|------------------------------------------------|----------------|
 | Exness       | Low spreads, fast execution                   | [Join Exness](https://one.exnesstrack.org/a/english23) |
 | JustMarkets  | User-friendly platform, diverse instruments   | [Join JustMarkets](https://one.justmarkets.link/a/79iqw0j6nj) |

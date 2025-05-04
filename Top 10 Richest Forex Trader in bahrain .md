@@ -202,7 +202,7 @@ From the stories of these successful traders, we can draw several key lessons:
 
 👍 Pepperstone: [Go to broker](https://trk.pepperstonepartners.com/aff_c?offer_id=367&aff_id=33954) 👈
  
-👉 Avatrade: [Open An Account](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438) or [Go to broker](https://www.avatrade.com?versionId=10301&tag=194438) 👈
+👉 Avatrade: [Open An Account](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438) or [Go to broker](https://www.avatrade.com?versionId=10301&tag=194438)👈
 
 6. **Is it necessary to use technical analysis?**
    - While not mandatory, technical analysis helps traders make informed decisions about market trends.

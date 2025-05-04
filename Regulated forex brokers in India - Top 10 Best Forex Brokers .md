@@ -98,7 +98,7 @@ FBS is an international broker regulated by IFSC, providing a variety of account
 
 AvaTrade is a global broker regulated by multiple authorities, including ASIC and CySEC. It offers a wide range of trading instruments and platforms, including MT4, MT5, and its proprietary AvaTradeGO app.
 
-👉 Avatrade: [Open An Account](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438) or [Go to broker](https://www.avatrade.com?versionId=10301&tag=194438👈
+👉 Avatrade: [Open An Account](https://www.avatrade.com/trading-account2?versionId=10301&tag=194438) or [Go to broker](https://www.avatrade.com?versionId=10301&tag=194438)👈
 
 ### Amarkets
 
